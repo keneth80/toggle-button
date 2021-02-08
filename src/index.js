@@ -9,10 +9,7 @@ const bootstrap = () => {
     ]
     const toggleButton = new ToggleButton({
         selector: '#toggle-button',
-        data: buttonData,
-        changeEvent: (event) => {
-            alert(`selected index: ${event}, label: ${buttonData[event]}`);
-        }
+        data: buttonData
     })
 }
 
