@@ -6,15 +6,15 @@ Q. on, off 기능 (toggle 기능)을 가지는 버튼 리스트 컴포넌트를 
 ## 기능 요구사항
 
 1. 각 버튼이 선택이 되었는지 안되었는지를 확인할 수 있다.
-![요구사항 첫번째](./src/solution/presenter/toggle_button/assets/toggle_button_scope1.png)
+![요구사항 첫번째](./src/solution/presenter/toggle-button/assets/toggle_button_scope1.png)
 
 
 2. 여러개의 버튼 중 하나의 버튼만 toggle 할 수 있다.
-![요구사항 두번째](./src/solution/presenter/toggle_button/assets/toggle_button_scope2.png)
+![요구사항 두번째](./src/solution/presenter/toggle-button/assets/toggle_button_scope2.png)
 
 
 ## 기능 작동 이미지
-![example_image](./toggle_button-example.png)
+![example_image](./toggle-button_example.png)
 
 
 ## 실행 방법 / 문제 풀이 방법
